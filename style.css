@@ -1,0 +1,43 @@
+body {
+	height: 100vh;
+	font-size: smaller;
+}
+
+
+#cabecario {
+	text-align: center;
+	font-size: 25px;
+
+}
+
+#cabecario_1 {
+	border: 15px solid #D65248;
+	background: #D65248;
+}
+
+#eae {
+	background: #D65248;
+}
+
+
+#sub_T {
+	color: #D65248;
+ font-style: oblique;
+}
+
+#style {
+	font-size: smaller;
+}
+
+#cabecario_M {
+	text-align: center;
+}
+
+#imagem {
+	border-radius: 99px;
+}
+
+#imagem_1 {
+	text-align: center;
+	margin: 26px 0 26px;
+}
